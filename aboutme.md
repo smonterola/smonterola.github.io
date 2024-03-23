@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
 My name is Sam Monterola. I am a computer science major at the University of Notre Dame.
